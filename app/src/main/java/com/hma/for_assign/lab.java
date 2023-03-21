@@ -12,6 +12,6 @@ public class lab {
     }
 
     public lab(int id) {
-        this.id = id;
+        System.out.println("Changed");
     }
 }
