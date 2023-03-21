@@ -11,6 +11,7 @@ public class lab {
         this.id = id;
     }
 
+
     public int notlab(){
         int a =6;
         int b = 5;
