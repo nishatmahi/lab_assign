@@ -11,7 +11,10 @@ public class lab {
         this.id = id;
     }
 
-    public lab(int id) {
-        System.out.println("Changed");
+
+    public int notlab(){
+        int a =6;
+        int b = 5;
+        return a + b;
     }
 }
